@@ -9,5 +9,6 @@ public class TataCarNexon extends Car {
 		System.out.println(horsePower);
 		System.out.println(numberOfWheels);
 		System.out.println(numberOfGears);
+		System.out.println(dashboardName);
 	}
 }
